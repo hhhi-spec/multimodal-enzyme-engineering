@@ -216,3 +216,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research data and generated artifacts
+experiments/
+ired/
+Iredmd/
+local_models/
+downloaded_structures/
+positive_experiment_csvs/
+positive_experiment_csvs_reduced/
+direction_text_csvs_en_v3/
+multimodal_baseline_artifacts/
+multimodal_baseline_artifacts_*/
+
+# Model and dataset files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.h5
+*.cif
+*.pdb
+*.csv
+*.xlsx
+*.zip
+*.tar
+*.pdf
+
+# Local/server configuration
+server_env.sh
