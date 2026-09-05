@@ -17,7 +17,7 @@ mutation sites and amino-acid substitutions.
 > This project is under active development. The current code is a research
 > baseline, not a production-ready mutation-design system.
 
-![Model architecture](figures/architecture_flow_figure_paper.png)
+![Model architecture](figures/image.png)
 
 ## Project Status
 
