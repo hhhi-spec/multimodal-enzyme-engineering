@@ -11,6 +11,3 @@ direction_text_csvs_en_v3/
 downloaded_structures/
 ```
 
-Place licensed data in the paths expected by the scripts and
-`multimodal_baseline/manifest.py`. Before sharing any dataset, verify its
-publication permissions, structure provenance and preprocessing version.
